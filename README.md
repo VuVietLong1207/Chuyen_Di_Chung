@@ -1,3 +1,4 @@
+HEAD
 # btl_nhom
 
 A new Flutter project.
@@ -30,3 +31,5 @@ This project now uses local SQLite as the source of truth for trips in `lib/db/d
 2. `flutter run`
 3. Tạo chuyến đi và kiểm tra dữ liệu lưu trong SQLite.
 
+# Chuyen_Di_Chung
+9aa0e26dfb2ff3261efb5f0ffd55bdeff1422490
